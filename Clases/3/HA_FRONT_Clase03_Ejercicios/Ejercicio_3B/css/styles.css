@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+
+#flag {
+  width: 50%;
+  font-size: 0;
+  line-height: 1;
+  margin: 0 auto;
+}
+
+.stripe {
+  height: 100px;
+  display: inline-block; /* Esta es una propiedad que aún no vimos. Permite asignarle height y width a elementos de tipo inline. */
+}
+
+#s1 {
+  background-color: #f44336; /* Rojo */
+  width: 50%;
+}
+
+#s2 {
+  background-color: #4caf50; /* Verde */
+  width: 50%;
+}
+
+#s3 {
+  background-color: #fdd835; /* Amarillo */
+  width: 100%;
+  font-size: 3rem;
+  line-height: 100px;
+  text-align: center;
+  color: #ffffff;
+  font-style: italic;
+}
+
+#s4 {
+  background-color: #0d47a1; /* Azul */
+  width: 33.3333%;
+}
+
+#s5 {
+  background-color: #03a9f4; /* Celeste */
+  width: 33.3333%;
+}
+
+#s6 {
+  background-color: #0d47a1; /* Azul */
+  width: 33.3333%;
+}
