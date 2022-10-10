@@ -1,7 +1,9 @@
 # Frontend @ Hack Academy
+
 Frontend course by Hack Academy
 
-Docentes: 
+Docentes:
+
 - Martin Giando (L y Mi)
 - Ismael Martinez (Ma y J)
 
@@ -10,6 +12,7 @@ Frecuencia: Lunes a Jueves 08:30
 # Clases
 
 ### Clase 1
+
 - Introducción
 - HTML
 
@@ -19,10 +22,11 @@ Frecuencia: Lunes a Jueves 08:30
 - CSS – Sintáxis.
 - CSS dentro de HTML.
 - Ejemplos de CSS: Colores y tamaño de fuente.
-- Selectores CSS: `element`, `class` e `id`.	
+- Selectores CSS: `element`, `class` e `id`.
 - Jerarquía de selectores
 
 ### Clase 3
+
 - Agrupación de selectores.
 - Anidación de selectores.
 - Jerarquía de selectores.
@@ -30,6 +34,12 @@ Frecuencia: Lunes a Jueves 08:30
 - CSS Box Model.
 
 TIP: leer sobre [Colapso de Márgenes][2] y [Box Sizing][1].
+
+### Clase 4
+
+- Ejercicio para practicar las últimas clases.
+- Page Layout: CSS position, display, float.
+- Ejercicios sobre Page Layout.
 
 [1]: https://css-tricks.com/box-sizing/
 [2]: https://css-tricks.com/what-you-should-know-about-collapsing-margins/
