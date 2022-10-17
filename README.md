@@ -41,5 +41,33 @@ TIP: leer sobre [Colapso de Márgenes][2] y [Box Sizing][1].
 - Page Layout: CSS position, display, float.
 - Ejercicios sobre Page Layout.
 
+### Clase 5
+
+- Flexbox
+- Frameworks
+- Bootstrap
+
+### Clase 6
+
+- ¿Cómo funciona Internet? (en 3 slides).
+- Formularios en HTML.
+
+### Clase 7
+
+- Introducción a JavaScript.
+  - Sentencias.
+  - Tipos de datos.
+  - Variables.
+- ¿Dónde colocar nuestro código JS?
+
+### Clase 8
+
+- Booleanos.
+- Sentencias, Expresiones y Operadores.
+- Math.
+- Funciones.
+- Arrays.
+- Ejercicios.
+
 [1]: https://css-tricks.com/box-sizing/
 [2]: https://css-tricks.com/what-you-should-know-about-collapsing-margins/
