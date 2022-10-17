@@ -1,0 +1,52 @@
+/*
+    RECORDAR:
+
+    Es muy importante tener mucho cuidado al cambiarle los estilos a las row's
+    y col's de Bootstrap. La recomendación general es que NO lo hagan (para
+    evitar problemas con el Grid de Bootstrap).
+
+    A veces, no hay más remedio que hacerlo. Por ejemplo, en este ejercicio
+    de la bandera es necesario darle un background-color a cada columna.
+
+    También se le dio un alto de 100px a todas las columnas. Esto último se podría
+    haber evitado colocando otro div (de alto 100px) dentro de las columnas.
+
+*/
+
+#flag {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.stripe {
+  height: 100px;
+  line-height: 100px;
+  font-size: 50px;
+  text-align: center;
+  color: #ffffff;
+  font-style: italic;
+}
+
+#stripe-top-left {
+  background-color: #f44336; /* Rojo */
+}
+
+#stripe-top-right {
+  background-color: #4caf50; /* Verde */
+}
+
+#stripe-middle {
+  background-color: #fdd835; /* Amarillo */
+}
+
+#stripe-bottom-left {
+  background-color: #0d47a1; /* Azul */
+}
+
+#stripe-bottom-middle {
+  background-color: #03a9f4; /* Celeste */
+}
+
+#stripe-bottom-right {
+  background-color: #0d47a1; /* Celeste */
+}
