@@ -50,7 +50,7 @@ TIP: leer sobre [Colapso de Márgenes][2] y [Box Sizing][1].
 ### Clase 6
 
 - ¿Cómo funciona Internet? (en 3 slides).
-- Formularios en HTML.
+- Formularios en `HTML`.
 
 ### Clase 7
 
@@ -68,6 +68,15 @@ TIP: leer sobre [Colapso de Márgenes][2] y [Box Sizing][1].
 - Funciones.
 - Arrays.
 - Ejercicios.
+
+### Clase 9
+
+- Comparadores.
+- Condicionales (`if/else`).
+- Truthy & Falsy.
+- Operadores `&&` y `||`.
+- For loops.
+- Recorrer un Array (usando `for`, `forEach` y `for..of`).
 
 [1]: https://css-tricks.com/box-sizing/
 [2]: https://css-tricks.com/what-you-should-know-about-collapsing-margins/
