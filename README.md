@@ -81,9 +81,9 @@ TIP: leer sobre [Colapso de Márgenes][2] y [Box Sizing][1].
 ### Clase 10
 
 - DOM.
-- Función querySelector.
-- Función querySelectorAll.
-- Agregar nuevos elementos con createElement e insertAdjacentHTML.
+- Función `querySelector`.
+- Función `querySelectorAll`.
+- Agregar nuevos elementos con `createElement` e `insertAdjacentHTML`.
 
 [1]: https://css-tricks.com/box-sizing/
 [2]: https://css-tricks.com/what-you-should-know-about-collapsing-margins/
