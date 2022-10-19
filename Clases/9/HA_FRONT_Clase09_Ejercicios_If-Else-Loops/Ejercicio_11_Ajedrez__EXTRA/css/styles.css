@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+#tablero {
+  width: 800px;
+  margin: 40px auto 40px auto;
+  border: 6px solid black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cuadrado-blanco {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+}
+
+.cuadrado-negro {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
