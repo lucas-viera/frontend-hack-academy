@@ -85,5 +85,23 @@ TIP: leer sobre [Colapso de Márgenes][2] y [Box Sizing][1].
 - Función `querySelectorAll`.
 - Agregar nuevos elementos con `createElement` e `insertAdjacentHTML`.
 
+### Clase 11
+
+- JavaScript y Formularios.
+- Obtener el valor de un `input`.
+- Obtener el valor de un `select`.
+- Obtener el valor de un `radio button`.
+
+### Clase 12
+
+- Repaso
+- El Ejercicio 1 de esta clase es muy importante porque mezcla conceptos clave como Variables, If/Else, Arrays, Fors, Funciones y manipulación del DOM. Además requiere escribir HTML y CSS, y utilización de Bootstrap. Estos conceptos son fundamentales para encarar un curso de Back-End o el Coding Bootcamp.
+
+### Clase 13
+
+- `while` Loops.
+- loop infinito.
+- eventos.
+
 [1]: https://css-tricks.com/box-sizing/
 [2]: https://css-tricks.com/what-you-should-know-about-collapsing-margins/
