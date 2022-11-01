@@ -111,5 +111,9 @@ TIP: leer sobre [Colapso de Márgenes][2] y [Box Sizing][1].
 
 - Vue.js
 
+### Clase 16
+
+- Axios
+
 [1]: https://css-tricks.com/box-sizing/
 [2]: https://css-tricks.com/what-you-should-know-about-collapsing-margins/
